@@ -1,1 +1,1 @@
-Scripts that print absolute pathway
+0x00-shell_basics
