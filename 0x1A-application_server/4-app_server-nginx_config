@@ -5,7 +5,7 @@ server {
         listen [::]:80 default_server;
 
         # Specify the server name (domain or IP address)
-        server_name 35.175.134.9;
+        server_name 35.231.193.217;
 
         # Add a custom header to the response indicating the server that handled the request
         add_header X-Served-By $HOSTNAME;
