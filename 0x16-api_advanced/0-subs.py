@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """0-subs
 
-Run ./0-main.py programming or ./0-main.py this_is_a_fake_subreddit for testing
+Run ./0-main.py programming or ./0-main.py it_is_a_fake_subreddit for testing
 """
 
 import requests

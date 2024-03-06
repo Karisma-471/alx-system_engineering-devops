@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-1-main
+1-main task
 """
 import sys
 

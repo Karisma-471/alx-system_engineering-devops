@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """1-top_ten
 
-Run ./1-main.py programming or ./1-main.py this_is_a_fake_subreddit for testing
+Run ./1-main.py programming or ./1-main.py it_is_a_fake_subreddit for testing
 """
 
 import requests
